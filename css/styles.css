@@ -1,0 +1,92 @@
+body {
+  background-color: #fbdff0;
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.top {
+  height: 500px;
+  margin-left: 40px;
+  margin-top: 20px;
+  padding: 20px 20px;
+  width: 92%;
+}
+
+.middle {
+  height: 350px;
+  color: #be9fe1;
+  font-size: 30px;
+  width: 600px;
+  margin-left: 1220px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  padding: 10px;
+}
+
+.bottom {
+  height: 400px;
+  margin: 40px 40px;
+  margin-right: 40px;
+  width: 750px;
+  color: #dbc6eb;
+  font-size: 30px;
+  padding: 10px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin: 0;
+  font-size: 80px;
+  color: #f6c3e5;
+}
+
+.bio {
+  margin: 20px;
+  padding: 20px;
+  color: #efa8e4;
+  font-size: 30px;
+  font: monospace;
+}
+
+hr {
+  border-width: 8px 0px 0px;
+  border-top-style: dotted;
+  border-color: #faf2f2;
+  width: 2%;
+}
+
+.top-cloud {}
+
+.bottom-cloud {
+  position: absolute;
+  right: 60px;
+}
+
+.mountain {
+  position: relative;
+  bottom: 40px;
+}
+
+.ser {
+  margin: 50px;
+  color: #c9b6e4;
+  font-size: 30px;
+}
+
+.ser1 {
+  margin: 50px 50px 50px 1300px;
+  color: #e1ccec;
+  font-size: 30px;
+}
+
+.ser2 {
+  margin: 50px;
+  color: #d89cf6;
+  font-size: 30px;
+}
+
+.ser3 {
+  margin: 50px 50px 50px 1300px;
+  color: #a278b5;
+  font-size: 30px;
+}
